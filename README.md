@@ -1,6 +1,6 @@
-Name: Rakshith Bodakuntla
+**Name: Rakshith Bodakuntla
 ID: 700772672
-
+**
 
 
 Task 1: Convolution with Different Stride and Padding
