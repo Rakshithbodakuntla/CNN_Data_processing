@@ -3,7 +3,7 @@ ID: 700772672
 **
 
 
-Task 1: Convolution with Different Stride and Padding
+## Task 1: Convolution with Different Stride and Padding
 Objective
 To understand how stride and padding affect convolution operations.
 Steps
@@ -26,10 +26,7 @@ Steps
 - Apply a Sobel filter in the X-direction to detect vertical edges.
 - Apply a Sobel filter in the Y-direction to detect horizontal edges.
 - Display the original image and filtered edge-detected images using matplotlib
-
-
-
-## Task 3: Max Pooling & Average Pooling
+Max Pooling & Average Pooling
 Objective:
 To demonstrate Max Pooling and Average Pooling, which help reduce spatial dimensions while preserving essential features.
 Steps
