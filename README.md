@@ -36,7 +36,7 @@ Steps
 - Print the original matrix, max-pooled matrix, and average-pooled matrix.
 
 
-## Task 4: Data Preprocessing – Normalization vs. Standardization
+## Task 3: Data Preprocessing – Normalization vs. Standardization
 Objective
 To preprocess the Iris dataset using Min-Max Normalization and Z-score Standardization, then compare their effects on model performance.
 Steps
